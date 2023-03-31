@@ -1,9 +1,7 @@
 
-Person: 
-- create a Kubeadm cluster with 3 master nodes and 2 worker nodes
-
-ChatGPT: 
-- To create a Kubeadm cluster with 3 master nodes and 2 worker nodes, you can follow the steps below: 
+#Lab1: Creating an HA Kubeadm Cluster
+ 
+##To create a Kubeadm cluster with 3 master nodes and 2 worker nodes, you can follow the steps below: 
 1. Set up the Virtual Machines (VMs) for the cluster. You can use any virtualization technology like VirtualBox or VMWare. Ensure that the VMs have a minimum of 2GB RAM and 2 CPUs. 
 2. Install Ubuntu 20.04 LTS on all the VMs. 
 3. Disable swap on all the VMs using the command `sudo swapoff -a`. 
