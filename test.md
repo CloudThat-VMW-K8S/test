@@ -1,8 +1,5 @@
 
-Person: 
-- Create a Lab to explore the docker lifecycle with all the best practices and in mark down format
 
-ChatGPT: 
 - # Docker Lifecycle Exploration Lab
 
 This lab is designed to explore the Docker lifecycle and learn about the best practices for managing Docker containers. We will cover key concepts, such as Dockerfiles, building images, managing containers, networking, and storage.
